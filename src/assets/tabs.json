@@ -1,0 +1,32 @@
+[
+	{
+		"id": "beachVacation",
+		"title": "Beach Vacation",
+		"order": 1,
+		"path": "BeachVacation"
+	},
+	{
+		"id": "cityExploration",
+		"title": "City Exploration",
+		"order": 2,
+		"path": "CityExploration"
+	},
+	{
+		"id": "mountainAdventure",
+		"title": "Mountain Adventure",
+		"order": 3,
+		"path": "MountainAdventure"
+	},
+	{
+		"id": "culturalExperiences",
+		"title": "Cultural Experiences",
+		"order": 4,
+		"path": "CulturalExperiences"
+	},
+	{
+		"id": "wildlifeSafari",
+		"title": "Wildlife Safari",
+		"order": 5,
+		"path": "WildlifeSafari"
+	}
+]
